@@ -1,0 +1,3 @@
+Use any and a comprehension (or generator expression, if you prefer) to check the plants in plants_dict to see if there are any grasses in there.
+
+Run your code again, searching for Cactus, to test that it still works when there aren't any.

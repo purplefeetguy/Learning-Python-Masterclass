@@ -1,0 +1,1 @@
+So the mini challenge is to change the class so that the amount used to open the account also appears in the transaction list. No change should be made to the main part of the program, only the class can be changed.
